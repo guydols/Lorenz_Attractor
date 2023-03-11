@@ -6,6 +6,9 @@ This project is a Rust implementation and visualization of the Lorenz Attractor 
 
 The Lorenz Attractor is a mathematical model that describes the behavior of a simple system of three coupled nonlinear differential equations. It was first introduced by mathematician Edward Lorenz in 1963, and has since become one of the most famous and widely studied examples of a chaotic system.
 
+Screenshot:
+![](Screenshot.png?raw=true)
+
 ## How to use the program
 
 To run the program, you must have Rust installed on your computer. You can download Rust from the official website at https://www.rust-lang.org/tools/install.
