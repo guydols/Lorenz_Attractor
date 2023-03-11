@@ -27,10 +27,6 @@ This will compile the Rust code and start the program, which will open a window 
 
 This project depends on the Macroquad game development framework, which is included as a dependency in the `Cargo.toml` file.
 
-## Contributing
-
-Contributions are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU GPL - see the LICENSE file for details.
